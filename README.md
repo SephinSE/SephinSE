@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Sephin</h1>
+<h1 align="center">Hi👋, I'm Sephin Sebastian E</h1>
 <h3 align="center">A passionate Flutter developer, Frontend Developer and UI/UX Designer from Kochi, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sephinse&label=Profile%20views&color=0e75b6&style=flat" alt="sephinse" /> </p>
