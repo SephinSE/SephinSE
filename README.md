@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sephinse&label=Profile%20views&color=0e75b6&style=flat" alt="sephinse" /> </p>
 
-- 🔭 I’m currently working on [Thistle](https://github.com/SephinSE/thistle)
+- 🔭 I’m currently working on [MyMess](https://github.com/SephinSE/MyMess-Mobile) and [PlaceMe](https://github.com/SephinSE/PlaceMe-Mobile)
 
 - 🌱 I’m currently learning **Flutter**
 
